@@ -2,7 +2,7 @@
 """
 walk.py
 
-Train a PPO agent on MuJoCo's Humanoid-v2 using Stable-Baselines3.
+Train a PPO agent on MuJoCo's Humanoid-v4 using Stable-Baselines3.
 """
 
 import os
